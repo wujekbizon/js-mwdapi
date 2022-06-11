@@ -4,7 +4,7 @@ const {
   verifyToken,
   verifyTokenAndAuthorization,
   verifyTokenAndAdmin,
-} = require('../verifyToken');
+} = require('./verifyToken');
 
 // CREATE
 router.post('/', verifyToken, async (req, res) => {
