@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.76921b20.css","mappings":"AAAA,EAEE,kCAAsC,CADtC,QAEF,CAEA,MAEE,aAAc,CADd,oBAEF","sources":["index.css"],"sourcesContent":["* {\r\n  margin: 0;\r\n  font-family: 'Nunito Sans', sans-serif;\r\n}\r\n\r\n.link {\r\n  text-decoration: none;\r\n  color: inherit;\r\n}\r\n"],"names":[],"sourceRoot":""}
